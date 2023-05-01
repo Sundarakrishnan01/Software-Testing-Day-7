@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T16:13:56 IST" name="Suite" finished-at="2023-04-27T16:14:14 IST" duration-ms="17913">
+    <groups>
+      <group name="Regression Testcase">
+        <method signature="Ex5_1.Test2()[pri:0, instance:test.Day6.Ex5_1@12468a38]" name="Test2" class="test.Day6.Ex5_1"/>
+        <method signature="Ex5_1.Test3()[pri:0, instance:test.Day6.Ex5_1@12468a38]" name="Test3" class="test.Day6.Ex5_1"/>
+      </group> <!-- Regression Testcase -->
+    </groups>
+    <test started-at="2023-04-27T16:13:56 IST" name="Test" finished-at="2023-04-27T16:14:14 IST" duration-ms="17913">
+      <class name="test.Day6.Ex5_1">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.Day6.Ex5_1@12468a38]" started-at="2023-04-27T16:13:56 IST" name="beforeClass" finished-at="2023-04-27T16:14:07 IST" duration-ms="10823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Test2()[pri:0, instance:test.Day6.Ex5_1@12468a38]" started-at="2023-04-27T16:14:07 IST" name="Test2" finished-at="2023-04-27T16:14:10 IST" duration-ms="3558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:test.Day6.Ex5_1@12468a38]" started-at="2023-04-27T16:14:10 IST" name="Test3" finished-at="2023-04-27T16:14:13 IST" duration-ms="3347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.Day6.Ex5_1@12468a38]" started-at="2023-04-27T16:14:13 IST" name="afterClass" finished-at="2023-04-27T16:14:14 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.Day6.Ex5_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
